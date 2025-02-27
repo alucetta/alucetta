@@ -1,9 +1,9 @@
 
 
-$${\color{#c49f6f}Greetings \space \color{#ffffff}fellow \space \color{#c49f6f}person}$$
+$${\color{#3d7faf}Greetings \space \color{#c3d2df}fellow \space \color{#3d7faf}person}$$
 
 <p align="center">
-<img src="https://i.postimg.cc/9fZqS3s3/download-1.jpg" />
+<img src="https://i.postimg.cc/qRS00Xqj/IMG-1732.jpg" width="500">
 </p>
 
-$${\color{#c49f6f}Visit \space \color{white}my \space \color{#c49f6f}socials \space \color{white}ty}$$
+$${\color{#3d7faf}Visit \space \color{#c3d2df}my \space \color{#3d7faf}socials \space \color{#c3d2df}ty}$$
