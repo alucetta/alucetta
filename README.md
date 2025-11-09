@@ -2,10 +2,10 @@
 <img src="https://i.postimg.cc/wM1vQjyb/IMG-1735.png" width="75">
 </p>
 
-$${\color{#3d7faf}Greetings \space \color{#c3d2df}fellow \space \color{#3d7faf}person}$$
+$${\color{#a43039}Greetings \space \color{#c3d2df}fellow \space \color{#a43039}person}$$
 
 <p align="center">
-<img src="https://i.postimg.cc/yYHsp4qb/IMG-2284.jpg" width="500">
+<img src="https://i.postimg.cc/9QFy92Qf/Helltaker-heruteika.jpg" width="500">
 </p>
 
-$${\color{#3d7faf}Visit \space \color{#c3d2df}my \space \color{#3d7faf}socials \space \color{#c3d2df}ty}$$
+$${\color{#a43039}Visit \space \color{#c3d2df}my \space \color{#a43039}socials \space \color{#c3d2df}ty}$$
