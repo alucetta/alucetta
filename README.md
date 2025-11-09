@@ -1,6 +1,4 @@
-<p align="center">
-<img src="https://i.postimg.cc/Jn0cZL7X/IMG-3887.png" width="75">
-</p>
+
 
 $${\color{#de788b}Greetings \space \color{#facc8b}fellow \space \color{#de788b}person}$$
 
